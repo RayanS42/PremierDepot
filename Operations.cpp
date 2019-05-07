@@ -35,3 +35,11 @@ int division(int a, int b)
 
     return;
 }
+
+int exposant(int nb,int exp)
+{
+    int resultat;
+    resultat=pow(nb,exp);
+
+    return;
+}
